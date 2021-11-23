@@ -1,0 +1,4 @@
+Hello React Native.
+Nice to meet you.
+
+안녕하세요.반가워요
